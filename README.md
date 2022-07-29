@@ -115,7 +115,7 @@ Load the STL and modify as needed
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Publishing raw files in additional to STL
+- [ ] Publishing raw files in addition to STL
 
 See the [open issues](https://github.com/sancheza/3d_prints/issues) for a full list of proposed features (and known issues).
 
@@ -144,7 +144,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed freely, no license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
