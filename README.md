@@ -77,9 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sancheza`, `3d_prints`, `twitter_handle`, `antoniosanchez`, `sancheza@gmail.com_client`, `sancheza@gmail.com`, `3d_prints`, `custom STLs, free for use`
+[![Product Name Screen Shot][product-screenshot]](https://github.com/sancheza/3d_prints)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,14 +85,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Tinkercad][Tinkercad]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,46 +94,22 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get up and running follow these simple  steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+- 3D printer
+- 3D printing software (I use Cura)
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/sancheza/3d_prints.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+N/A
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+Load the STL and modify as needed
 
 
 <!-- ROADMAP -->
@@ -189,7 +156,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - sancheza@gmail.com@sancheza@gmail.com_client.com
+Your Name - [@sancheza](https://twitter.com/sancheza) - sancheza@gmail.com@sancheza@gmail.com_client.com
 
 Project Link: [https://github.com/sancheza/3d_prints](https://github.com/sancheza/3d_prints)
 
