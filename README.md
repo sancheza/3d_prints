@@ -85,7 +85,7 @@
 
 ### Built With
 
-[![Tinkercad][Tinkercad.com]][Tinkercad-url] -->
+[![Tinkercad][Tinkercad.com]][Tinkercad-url]
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
