@@ -86,9 +86,9 @@
 ### Built With
 
 <br />
-<div align="center">
+<div align="left">
   <a href="https://github.com/sancheza/3d_prints">
-    <img src="images/tinkercad.svg" alt="tinkercad" width="80" height="80">
+    <img src="images/tinkercad.svg" alt="tinkercad" width="160" height="160">
   </a>
  
 <!-- * [![Angular][Angular.io]][Angular-url] -->
