@@ -91,6 +91,7 @@
     <img src="images/tinkercad.svg" alt="tinkercad" width="160" height="160">
   </a>
  
+* [![Tinkercad][Tinkercad.com]][Tinkercad-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -200,6 +201,8 @@ Project Link: [https://github.com/sancheza/3d_prints](https://github.com/sanchez
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
+[Tinkercad.com]: https://editor.tinkercad.com/assets_2lv7l2l/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg
+[Tinkercad-url]: https://https://www.tinkercad.com/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
