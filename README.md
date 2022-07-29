@@ -115,10 +115,7 @@ Load the STL and modify as needed
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Publishing raw files in additional to STL
 
 See the [open issues](https://github.com/sancheza/3d_prints/issues) for a full list of proposed features (and known issues).
 
@@ -156,7 +153,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@sancheza](https://twitter.com/sancheza) - sancheza@gmail.com@sancheza@gmail.com_client.com
+Contact me on Twitter [@sancheza](https://twitter.com/sancheza)
+Or via email sancheza@gmail.com
 
 Project Link: [https://github.com/sancheza/3d_prints](https://github.com/sancheza/3d_prints)
 
@@ -167,8 +165,6 @@ Project Link: [https://github.com/sancheza/3d_prints](https://github.com/sanchez
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
