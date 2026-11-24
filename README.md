@@ -145,7 +145,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed freely, no license. See `LICENSE.txt` for more information.
+[PolyForm Noncommercial License 1.0.0](LICENSE). Personal, educational, and other noncommercial use is allowed. Commercial use requires a separate license: open an issue titled "Commercial license" at <https://github.com/sancheza/3d_prints/issues>.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -183,7 +183,7 @@ Project Link: [https://github.com/sancheza/3d_prints](https://github.com/sanchez
 [issues-shield]: https://img.shields.io/github/issues/sancheza/3d_prints.svg?style=for-the-badge
 [issues-url]: https://github.com/sancheza/3d_prints/issues
 [license-shield]: https://img.shields.io/github/license/sancheza/3d_prints.svg?style=for-the-badge
-[license-url]: https://github.com/sancheza/3d_prints/blob/master/LICENSE.txt
+[license-url]: https://github.com/sancheza/3d_prints/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/antoniosanchez
 [product-screenshot]: images/screenshot.png
